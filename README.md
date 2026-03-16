@@ -1,0 +1,1 @@
+# sha256-impl-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 sha256_impl.py\n```\n
